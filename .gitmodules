@@ -1,0 +1,21 @@
+[submodule "third_party/HTTPRequest"]
+	path = third_party/HTTPRequest
+	url = https://github.com/elnormous/HTTPRequest.git
+[submodule "third_party/ncnn"]
+	path = third_party/ncnn
+	url = https://github.com/Tencent/ncnn.git
+[submodule "third_party/glog"]
+	path = third_party/glog
+	url = https://github.com/google/glog.git
+[submodule "third_party/cJSON"]
+	path = third_party/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "third_party/gflags"]
+	path = third_party/gflags
+	url = https://github.com/gflags/gflags.git
+[submodule "third_party/qtbase"]
+	path = third_party/qtbase
+	url = https://github.com/qt/qtbase.git
+[submodule "third_party/gtest"]
+	path = third_party/gtest
+	url = https://github.com/google/googletest.git

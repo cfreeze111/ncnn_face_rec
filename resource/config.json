@@ -1,0 +1,19 @@
+{
+  "classroom_id": 2,
+  "cap_device_id": 1,
+  "base_url": "http://0.0.0.0:8080/api",
+  "detect_model": {
+    "path": "/models/retinaface_mobile0.25-640-640.opt",
+    "conf_thres": 0.8,
+    "iou_thres": 0.5,
+    "topk": 1000,
+    "width": 640,
+    "height": 480
+  },
+  "recognize_model": {
+    "path": "/models/mobile_facenet.opt",
+    "width": 112,
+    "height": 112,
+    "sim_threshold": 0.95
+  }
+}
